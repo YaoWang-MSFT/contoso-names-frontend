@@ -21,7 +21,7 @@ export default class MyApp extends App {
       <div>
         <Head>
             <meta name="viewport" content="initial-scale=1.0, width=device-width" />
-            <title>Contoso: Band Name Generator</title>
+            <title>Contoso: Band Name Generator 001</title>
         </Head>
         <Component {...pageProps} />
       </div>
